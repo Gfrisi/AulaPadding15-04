@@ -1,0 +1,19 @@
+body
+{
+    background-color: grey;
+}
+section
+{
+    border: 1px double black;
+    background-color: aqua;
+    padding-top: 50px;  
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+article
+{
+    border: 1px double black;
+    background-color: aqua;
+    padding: 25px 50px 75px 100px;
+}
